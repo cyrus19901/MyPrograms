@@ -1,0 +1,8 @@
+#include <iostream>
+using namespsace std;
+
+struct node {
+	string str;
+	struct node * left;
+	struct right * left;
+}
